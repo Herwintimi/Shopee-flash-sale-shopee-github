@@ -1,4 +1,4 @@
 
-pin_number ="969655"
+pin_number ="868869"
 link_produk ="https://shopee.co.id/-COD-Micropack-Powerbank-10000-mAh-Fast-Charging-for-Oppo-VIVO-Samsung-Xiaomi-Redmi-iPhone-i.98362995.7245279462"
-cookiee = 'b0dEEsaI6h/BuT7Zfnad+M5H9fLdTNzV+PrCVm5s+UVZQfQoRrnXw7NS5SZXycgkzk3m8aqHRf+fuZEkUGnqmvCH7ak5AQFxHC4PIoIKqpwZ9S1k4HuPbTmZ89XcNnW9Sx5h+HUmilsVcBOCcVkR2ofoC5fzz0lk3mFcwYfW3sY='
+cookiee = '.M0ZDVHBMSVZ5TUl2d3FkclUqXGTkGf3NQ2Zbk68XKjdCcJ46+arpVddTVnxgy6XjtOuEOzxF1fFZ3F5Q8cShxTZdQkAKUC6nYwifGwWvhzDi+WJ9YymQ+9AlDPQervkjzCxTsuq55NdCKxsHuy6pMtB0JDJhIGu6oqDHog7UEeo62d8tB2a4V7EQCBPBkRmfsQpRVnEuv/uz6juNCFLJFw=='
